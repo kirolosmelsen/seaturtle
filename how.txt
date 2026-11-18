@@ -1,0 +1,14 @@
+000 raft YES layer height 1.900MM med 030
+001 raft YES layer height 1.900MM med 030
+002 raft YES layer height 1.900MM med 030
+003 raft YES layer height 1.900MM med 030
+004 raft YES layer height 1.900MM med 030
+005 raft YES layer height 1.900MM med 030
+006 raft YES layer height 1.900MM med 030
+007 raft YES layer height 1.900MM med 030
+008 raft YES layer height 1.900MM med 030
+009 raft YES layer height 0.900MM low 010 optimized hydro support
+010 raft YES layer height 1.900MM med 030
+011 raft YES layer height 1.900MM med 030
+012 raft YES layer height 1.900MM med 030
+013 raft YES layer height 1.900MM med 030
